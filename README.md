@@ -45,4 +45,4 @@ set -g status-right '#{vpn_icon_status} #{vpn_status} #{vpn_session_duration}'
 
 ### License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
